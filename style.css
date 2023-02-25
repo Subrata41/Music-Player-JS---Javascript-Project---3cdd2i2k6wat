@@ -37,7 +37,8 @@ nav form {
     justify-content: center;
     align-items: center;
     gap: 5px;
-    background-color: var(--white);
+/*     background-color: var(--white); */
+    background-color: #eef2f7;
     width: max-content;
     padding: 5px 7px;
     position: relative;
